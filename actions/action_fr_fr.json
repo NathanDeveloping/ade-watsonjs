@@ -21,7 +21,7 @@
   "conversations": {
     "Watson": {
       "name": "Watson",
-      "url": "https://googleVP.mybluemix.net/api/google4IBM",
+      "url": "https://357fd37f.ngrok.io/sapi/google4IBM",
       "in_dialog_intents": [
         {
           "name": "actions.intent.CANCEL"
