@@ -31,9 +31,11 @@ function getCours_heure(formation, date, heure){
 
 function getExamen(formation, date){
     var tableau=[];
-    data.forEach(function (value) {
+    dataSort.forEach(function (value) {
         if(value.Formation==formation){
-            if (compare(value.Date, date) == -1) {
+            var dateValue = stringToDate(value.Date);
+            var dateMax = stringToDate(date);
+            if (dateValue < dateMax) {
                 temp = value.Intitule.split(' ');
                 for (var i = 0; i < temp.length; i++) {
                     if (temp[i] == "Examen") {
@@ -46,8 +48,6 @@ function getExamen(formation, date){
     });
     return tableau;
 }
-
-console.log(getExamen("Master Informatique", "14/03/2018"));
 
 function getDureeDate(formation, date){
     var duree=0;
@@ -170,8 +170,16 @@ function compare(a,b) {
 }
 
 function stringToDate(date) {
-    var datePartsA = date.split("/");
-    var dateA = new Date("20" + datePartsA[2], datePartsA[1] - 1, datePartsA[0]);
+    var dateA;
+    var datePartsA;
+    if(date.includes("/")) {
+        datePartsA = date.split("/");
+        dateA = new Date("20" + datePartsA[2], datePartsA[1] - 1, datePartsA[0]);
+    } else {
+        datePartsA = date.split("-");
+        dateA = new Date(datePartsA[0], datePartsA[1] - 1, datePartsA[2]);
+    }
+
     return dateA;
 }
 

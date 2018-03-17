@@ -99,10 +99,11 @@ function launchRightFunction(context) {
 			result =  "Avec " + context.Enseignant.toLowerCase() + " vous avez les cours " + ade.getCours_prof(context.Formation, context.Enseignant).join(" et ");
 			break;
 		case 'examen':
-			if (ade.getExamen().length == 0)
+			var exams = ade.getExamen(context.formation, context.jour2);
+			if (exams.length == 0)
 				result = "Vous n'avez aucun examen le " + context.jour2;
 			else
-				result = "coucou";
+				result = "Vous avez ces examens avant le " + context.jour2 + " : " + exams.join(", ");
 
 	}
 
