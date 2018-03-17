@@ -1,8 +1,5 @@
 var data = require('./convertcsv.json');
-
-
 var dataArray = Object.values(data);
-
 
 function getCours(formation, date){
     var tableau=[];
@@ -86,8 +83,7 @@ function getSalle(formation,date,heure){
     return salle;
 }
 
-
-function getVacances() {
+function getProchainesVacances() {
     var vacances=[];
     var i = 0;
     var jourDebut=new Date("1998", "01", "01");
@@ -95,6 +91,7 @@ function getVacances() {
     var currentJour;
     var currentJourString;
     var dataSort = dataArray.sort(compare);
+    var currentDate = new Date();
     dataSort.forEach(function (value) {
         i++;
         if(i==1) {
@@ -108,7 +105,9 @@ function getVacances() {
                 var differentDays = Math.ceil(timeDifference / (1000 * 3600 * 24));
                 if (differentDays >= 7) {
                     if(currentJour>jourDebut) {
-                        vacances.push({debut: jourDebutString, fin: currentJourString});
+                        if(jourDebut >= currentDate) {
+                            vacances.push({debut: jourDebutString, fin: currentJourString});
+                        }
                     }
                 }
                 jourDebut = currentJour;
@@ -119,7 +118,7 @@ function getVacances() {
     return vacances;
 }
 
-function getProchainesVacances() {
+function getProchaineVacance() {
     var vacances;
     var i = 0;
     var jourDebut=new Date("1998", "01", "01");
@@ -169,7 +168,5 @@ function stringToDate(date) {
     var dateA = new Date("20" + datePartsA[2], datePartsA[1] - 1, datePartsA[0]);
     return dateA;
 }
-
-console.log(getProchainesVacances());
 
 module.exports = {getCours, getCours_heure, getDureeDate, getCours_prof, getSalle, getVacances, getProchainesVacances, getExamen}
