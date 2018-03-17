@@ -28,7 +28,7 @@ function getCours_heure(formation, date, heure){
 
 function getDureeDate(formation, date){
     var duree=0;
-    sammy.test.forEach(function (value) {
+    data.forEach(function (value) {
         if(value.Date==date){
             if(value.Formation==formation){
                 duree +=value.Duree;
@@ -40,7 +40,7 @@ function getDureeDate(formation, date){
 
 function getCours_prof(formation, prof){
     var tableau=[];
-    sammy.test.forEach(function (value) {
+    data.forEach(function (value) {
         if(value.Formation==formation){
             if(value.Enseignant==prof){
                 tableau.push(value.Intitule);
@@ -49,3 +49,5 @@ function getCours_prof(formation, prof){
     });
     return tableau;
 }
+
+module.exports = {getCours, getCours_heure, getDureeDate, getCours_prof}
