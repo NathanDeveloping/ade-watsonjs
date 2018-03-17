@@ -80,7 +80,10 @@ function conversationMessage(request, workspaceId) {
 			console.log(watsonResponse);
 			context = watsonResponse.context; // Update global context
 
-			console.log(context.action);
+			  if (context.action != "rien") {
+                  var string = launchRightFunction(context);
+                  watsonResponse.output.text[0] = string;
+              }
 
 			resolve(watsonResponse);
 		  }
@@ -88,6 +91,22 @@ function conversationMessage(request, workspaceId) {
 	  );
 	});
   }
+
+function launchRightFunction(context) {
+	var result=null;
+	switch (context.action) {
+		case 'cours':
+			result =  "Avec " + context.Enseignant.toLowerCase() + " vous avez les cours " + ade.getCours_prof(context.Formation, context.Enseignant).join(" et ");
+			break;
+		case 'examen':
+			if (ade.get)
+			result = ";
+
+	}
+
+	return result;
+
+}
 
 function getSessionContext(sessionId) {
 	console.log('sessionId: ' + sessionId); 
@@ -125,11 +144,6 @@ function getSessionContext(sessionId) {
   }
 
 function sendResponse(response, resolve) {
-
-		//if (response.intents[0].intent == "demandeCours")
-			//response.output.text[0] = ade.getCours(response.entities);
-
-		//console.log("COUCOU\n" + JSON.stringify(response) + "\n");
 
 	  // Combine the output messages into one message.
 	  const output = response.output.text.join(' ');

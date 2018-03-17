@@ -60,7 +60,6 @@ function getDureeDate(formation, date){
 function getCours_prof(formation, prof){
     var tableau=[];
     data.forEach(function (value) {
-
         if(value.Formation==formation){
             if(value.Enseignant==prof){
                 tableau.push(value.Intitule);
@@ -171,3 +170,5 @@ function stringToDate(date) {
     var dateA = new Date("20" + datePartsA[2], datePartsA[1] - 1, datePartsA[0]);
     return dateA;
 }
+
+module.exports = {getCours, getCours_heure, getDureeDate, getCours_prof, getSalle, getVacances, getProchainesVacances, getExamen}
