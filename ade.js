@@ -83,6 +83,41 @@ function getVacances() {
     return vacances;
 }
 
+function getProchainesVacances() {
+    var vacances;
+    var i = 0;
+    var jourDebut=new Date("1998", "01", "01");
+    var jourDebutString;
+    var currentJour;
+    var currentJourString;
+    var currentDate = new Date();
+    var dataSort = dataArray.sort(compare);
+    dataSort.forEach(function (value) {
+        i++;
+        if(i==1) {
+            jourDebut= stringToDate(value.Date);
+            jourDebutString=value.Date;
+        } else {
+            if(value.Date != jourDebutString) {
+                currentJour = stringToDate(value.Date);
+                    currentJourString = value.Date;
+                    var timeDifference = Math.abs(jourDebut.getTime() - currentJour.getTime());
+                    var differentDays = Math.ceil(timeDifference / (1000 * 3600 * 24));
+                    if (differentDays >= 7) {
+                        if (currentJour > jourDebut) {
+                            if(jourDebut >= currentDate) {
+                                vacances={debut: jourDebutString, fin: currentJourString};
+                            }
+                        }
+                    }
+                jourDebut = currentJour;
+                jourDebutString = value.Date;
+            }
+        }
+    });
+    return vacances;
+}
+
 function compare(a,b) {
     var dateA = stringToDate(a.Date);
     var dateB = stringToDate(b.Date);
@@ -95,6 +130,8 @@ function compare(a,b) {
 
 function stringToDate(date) {
     var datePartsA = date.split("/");
-    var dateA = new Date(datePartsA[2], datePartsA[1] - 1, datePartsA[0]);
+    var dateA = new Date("20" + datePartsA[2], datePartsA[1] - 1, datePartsA[0]);
     return dateA;
 }
+
+console.log(getProchainesVacances());
