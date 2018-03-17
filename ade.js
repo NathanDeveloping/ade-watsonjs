@@ -172,3 +172,4 @@ function stringToDate(date) {
 }
 
 module.exports = {getCours, getCours_heure, getDureeDate, getCours_prof, getSalle, getVacances, getProchainesVacances, getExamen}
+
