@@ -168,4 +168,3 @@ function stringToDate(date) {
     var dateA = new Date("20" + datePartsA[2], datePartsA[1] - 1, datePartsA[0]);
     return dateA;
 }
-
