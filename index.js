@@ -8,6 +8,8 @@ var app = express();
 var port = process.env.PORT || 3000;
 var bodyParser = require('body-parser');
 
+var ade = require('./ade.js');
+
 require('dotenv').config();
 
 app.use(bodyParser.json()); // support json encoded bodies
@@ -76,7 +78,10 @@ function conversationMessage(request, workspaceId) {
 			reject('Error talking to Watson.');
 		  } else {
 			console.log(watsonResponse);
-			context = watsonResponse.context; // Update global context			
+			context = watsonResponse.context; // Update global context
+
+
+
 			resolve(watsonResponse);
 		  }
 		}
@@ -120,7 +125,12 @@ function getSessionContext(sessionId) {
   }
 
 function sendResponse(response, resolve) {
-	
+
+		//if (response.intents[0].intent == "demandeCours")
+			//response.output.text[0] = ade.getCours(response.entities);
+
+		//console.log("COUCOU\n" + JSON.stringify(response) + "\n");
+
 	  // Combine the output messages into one message.
 	  const output = response.output.text.join(' ');
 	  var resp = {
