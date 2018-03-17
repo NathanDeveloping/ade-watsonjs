@@ -80,7 +80,7 @@ function conversationMessage(request, workspaceId) {
 			console.log(watsonResponse);
 			context = watsonResponse.context; // Update global context
 
-
+			console.log(context.action);
 
 			resolve(watsonResponse);
 		  }
