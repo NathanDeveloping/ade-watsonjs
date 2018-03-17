@@ -27,9 +27,26 @@ function getCours_heure(formation, date, heure){
     return tableau;
 }
 
+
+function getExamen(formation){
+    var tableau=[];
+    data.forEach(function (value) {
+        if(value.Formation==formation){
+            temp=value.Intitule.split(' ');
+            //console.log(temp);
+            for (var i = 0; i < temp.length; i++) {
+                if(temp[i]=="Examen"){
+                    tableau.push(value.Intitule);
+                }
+            }
+
+        }
+    });
+    return tableau;
+}
 function getDureeDate(formation, date){
     var duree=0;
-    sammy.test.forEach(function (value) {
+    data.forEach(function (value) {
         if(value.Date==date){
             if(value.Formation==formation){
                 duree +=value.Duree;
@@ -41,7 +58,8 @@ function getDureeDate(formation, date){
 
 function getCours_prof(formation, prof){
     var tableau=[];
-    sammy.test.forEach(function (value) {
+    data.forEach(function (value) {
+
         if(value.Formation==formation){
             if(value.Enseignant==prof){
                 tableau.push(value.Intitule);
@@ -50,8 +68,22 @@ function getCours_prof(formation, prof){
     });
     return tableau;
 }
+function getSalle(formation,date,heure){
+    var salle;
+    data.forEach(function (value) {
+        if(value.Formation==formation){
+            if(value.Date==date){
+                if(value.Heure==heure){
+                    salle=value.Lieu;
+                }
 
-function getVacancesProchaines() {
+            }
+        }
+    });
+    return salle;
+}
+
+function getProchainesVacances() {
     var vacances=[];
     var i = 0;
     var jourDebut=new Date("1998", "01", "01");
@@ -136,3 +168,4 @@ function stringToDate(date) {
     var dateA = new Date("20" + datePartsA[2], datePartsA[1] - 1, datePartsA[0]);
     return dateA;
 }
+
