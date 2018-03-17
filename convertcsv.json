@@ -1,0 +1,2981 @@
+[
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "20/03/18",
+    "Duree": "90",
+    "Heure": "08:30",
+    "Intitule": "CM Génie logiciel",
+    "Lieu": "P224/222",
+    "Enseignant": "PERRIN Olivier"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "20/03/18",
+    "Duree": "90",
+    "Heure": "10:30",
+    "Intitule": "CM Génie logiciel",
+    "Lieu": "P224/222",
+    "Enseignant": "PERRIN Olivier"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "13:45",
+    "Intitule": "TD G1 Génie logiciel",
+    "Lieu": "B215 (salle info)",
+    "Enseignant": "PERRIN Olivier"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD G1 Génie logiciel",
+    "Lieu": "B215 (salle info)",
+    "Enseignant": "PERRIN Olivier"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TD G2 Génie logiciel",
+    "Lieu": "B215 (salle info)",
+    "Enseignant": "PERRIN Olivier"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "10:15",
+    "Intitule": "TD G2 Génie logiciel",
+    "Lieu": "B215 (salle info)",
+    "Enseignant": "PERRIN Olivier"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "19/03/18",
+    "Duree": "105",
+    "Heure": "08:30",
+    "Intitule": "CM Informatique décisionnelle KS",
+    "Lieu": "P224/222",
+    "Enseignant": "SMAILI Kamel"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "19/03/18",
+    "Duree": "105",
+    "Heure": "10:30",
+    "Intitule": "CM Informatique décisionnelle KS",
+    "Lieu": "P224/222",
+    "Enseignant": "SMAILI Kamel"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "13:45",
+    "Intitule": "TD G1 Informatique décisionnelle MB",
+    "Lieu": "B215 (salle info)",
+    "Enseignant": "BARRANDON Matthieu"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TD G2 Informatique décisionnelle MB",
+    "Lieu": "B215 (salle info)",
+    "Enseignant": "BARRANDON Matthieu"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "24/03/18",
+    "Duree": "105",
+    "Heure": "08:30",
+    "Intitule": "CM Création d'entreprise",
+    "Lieu": "P224/222",
+    "Enseignant": "NOURRISSIER Patrick"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "24/03/18",
+    "Duree": "105",
+    "Heure": "10:15",
+    "Intitule": "TD Création d'entreprise",
+    "Lieu": "P224/222",
+    "Enseignant": "NOURRISSIER Patrick"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "22/03/18",
+    "Duree": "90",
+    "Heure": "11:00",
+    "Intitule": "TD Allemand (avancé) MIAGE",
+    "Lieu": "P224/222",
+    "Enseignant": "GALIC Sinisa"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "13:45",
+    "Intitule": "TD G1 Anglais M1 MIAGE",
+    "Lieu": "P224/222",
+    "Enseignant": "ROGERS Joseph"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TD G2 Anglais M1 MIAGE",
+    "Lieu": "P224/222",
+    "Enseignant": "ROGERS Joseph"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "13:15",
+    "Intitule": "CM Analyse de données",
+    "Lieu": "P224/222",
+    "Enseignant": "CLAUSEL Marianne"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "15:30",
+    "Intitule": "TD G1 Analyse de données",
+    "Lieu": "B215 (salle info)",
+    "Enseignant": "BARRANDON Matthieu"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "15:30",
+    "Intitule": "TD G2 Analyse de données",
+    "Lieu": "P224/222",
+    "Enseignant": "CLAUSEL Marianne"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "23/03/18",
+    "Duree": "90",
+    "Heure": "10:30",
+    "Intitule": "CM Structuration de documents",
+    "Lieu": "P224/222",
+    "Enseignant": "BONNIN Geoffray"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "19/03/18",
+    "Duree": "90",
+    "Heure": "16:00",
+    "Intitule": "TD G1 Structuration de documents",
+    "Lieu": "P224/222",
+    "Enseignant": "BONNIN Geoffray"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "21/03/18",
+    "Duree": "90",
+    "Heure": "10:15",
+    "Intitule": "TD G1 Structuration de documents",
+    "Lieu": "P224/222",
+    "Enseignant": "BONNIN Geoffray"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "19/03/18",
+    "Duree": "90",
+    "Heure": "14:15",
+    "Intitule": "TD G2 Structuration de documents",
+    "Lieu": "P224/222",
+    "Enseignant": "BONNIN Geoffray"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "21/03/18",
+    "Duree": "90",
+    "Heure": "08:30",
+    "Intitule": "TD G2 Structuration de documents",
+    "Lieu": "P224/222",
+    "Enseignant": "BONNIN Geoffray"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TD G1 Prog objet avancée",
+    "Lieu": "B215 (salle info)",
+    "Enseignant": "ROUSSANALY Azim"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "23/03/18",
+    "Duree": "120",
+    "Heure": "13:45",
+    "Intitule": "TD G1 Prog objet avancée",
+    "Lieu": "P224/222",
+    "Enseignant": "BOUZOUBAA Yahya"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "13:45",
+    "Intitule": "TD G2 Prog objet avancée",
+    "Lieu": "B215 (salle info)",
+    "Enseignant": "ROUSSANALY Azim"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "23/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TD G2 Prog objet avancée",
+    "Lieu": "P224/222",
+    "Enseignant": "BOUZOUBAA Yahya"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "13:45",
+    "Intitule": "TD G1 Réseau",
+    "Lieu": "P224/222",
+    "Enseignant": "BOUZOUBAA Yahya, FONTAINE Pascal"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TD G2 Réseau",
+    "Lieu": "P224/222",
+    "Enseignant": "BOUZOUBAA Yahya, FONTAINE Pascal"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "16/03/18",
+    "Duree": "90",
+    "Heure": "08:30",
+    "Intitule": "CM Génie logiciel",
+    "Lieu": "P224/222",
+    "Enseignant": "PERRIN Olivier"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TD G1 Génie logiciel",
+    "Lieu": "B215 (salle info)",
+    "Enseignant": "PERRIN Olivier"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "13:45",
+    "Intitule": "TD G2 Génie logiciel",
+    "Lieu": "B215 (salle info)",
+    "Enseignant": "PERRIN Olivier"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "12/03/18",
+    "Duree": "105",
+    "Heure": "08:30",
+    "Intitule": "CM Info déc. & data mining KS",
+    "Lieu": "P224/222",
+    "Enseignant": "SMAILI Kamel"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "08:30",
+    "Intitule": "CM Informatique décisionnelle MB",
+    "Lieu": "P224/222",
+    "Enseignant": "BARRANDON Matthieu"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "10:45",
+    "Intitule": "CM Informatique décisionnelle MB",
+    "Lieu": "P224/222",
+    "Enseignant": "BARRANDON Matthieu"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "10:30",
+    "Intitule": "TD G1 Informatique décisionnelle KS",
+    "Lieu": "B215 (salle info)",
+    "Enseignant": "SMAILI Kamel"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TD G1 Informatique décisionnelle MB",
+    "Lieu": "B215 (salle info)",
+    "Enseignant": "BARRANDON Matthieu"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "10:30",
+    "Intitule": "TD G2 Informatique décisionnelle LV",
+    "Lieu": "P224/222",
+    "Enseignant": "VIGNERON Laurent"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "13:45",
+    "Intitule": "TD G2 Informatique décisionnelle MB",
+    "Lieu": "B215 (salle info)",
+    "Enseignant": "BARRANDON Matthieu"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "17/03/18",
+    "Duree": "105",
+    "Heure": "08:30",
+    "Intitule": "CM Création d'entreprise",
+    "Lieu": "P224/222",
+    "Enseignant": "NOURRISSIER Patrick"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "17/03/18",
+    "Duree": "105",
+    "Heure": "10:15",
+    "Intitule": "TD Création d'entreprise",
+    "Lieu": "P224/222",
+    "Enseignant": "NOURRISSIER Patrick"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "15/03/18",
+    "Duree": "90",
+    "Heure": "11:00",
+    "Intitule": "TD Allemand (avancé) MIAGE",
+    "Lieu": "P224/222",
+    "Enseignant": "GALIC Sinisa"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TD G1 Anglais M1 MIAGE",
+    "Lieu": "P224/222",
+    "Enseignant": "ROGERS Joseph"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "13:45",
+    "Intitule": "TD G2 Anglais M1 MIAGE",
+    "Lieu": "P224/222",
+    "Enseignant": "ROGERS Joseph"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "15/03/18",
+    "Duree": "120",
+    "Heure": "13:15",
+    "Intitule": "CM Analyse de données",
+    "Lieu": "P224/222",
+    "Enseignant": "CLAUSEL Marianne"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "15/03/18",
+    "Duree": "120",
+    "Heure": "15:30",
+    "Intitule": "TD G1 Analyse de données",
+    "Lieu": "P224/222",
+    "Enseignant": "BARRANDON Matthieu"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "15/03/18",
+    "Duree": "120",
+    "Heure": "15:30",
+    "Intitule": "TD G2 Analyse de données",
+    "Lieu": "B215 (salle info)",
+    "Enseignant": "CLAUSEL Marianne"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "14/03/18",
+    "Duree": "90",
+    "Heure": "08:30",
+    "Intitule": "CM Prog objet avancée",
+    "Lieu": "P224/222",
+    "Enseignant": "ROUSSANALY Azim"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "14/03/18",
+    "Duree": "90",
+    "Heure": "10:15",
+    "Intitule": "CM Prog objet avancée",
+    "Lieu": "P224/222",
+    "Enseignant": "ROUSSANALY Azim"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "16/03/18",
+    "Duree": "90",
+    "Heure": "10:15",
+    "Intitule": "CM Prog objet avancée",
+    "Lieu": "P224/222",
+    "Enseignant": "ROUSSANALY Azim"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "13:45",
+    "Intitule": "TD G1 Prog objet avancée",
+    "Lieu": "P224/222",
+    "Enseignant": "ROUSSANALY Azim"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TD G2 Prog objet avancée",
+    "Lieu": "P224/222",
+    "Enseignant": "ROUSSANALY Azim"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "12/03/18",
+    "Duree": "90",
+    "Heure": "14:00",
+    "Intitule": "CM Réseau",
+    "Lieu": "P224/222",
+    "Enseignant": "FONTAINE Pascal"
+  },
+  {
+    "Formation": "M1 MIAGE",
+    "Date": "12/03/18",
+    "Duree": "90",
+    "Heure": "15:45",
+    "Intitule": "CM Réseau",
+    "Lieu": "P224/222",
+    "Enseignant": "FONTAINE Pascal"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "21/03/18",
+    "Duree": "240",
+    "Heure": "14:00",
+    "Intitule": "M4105 - Appli BD AI-1-1",
+    "Lieu": "IUTNC_103, IUTNC_PC_021",
+    "Enseignant": "NOURRISSIER Patrick"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "19/03/18",
+    "Duree": "240",
+    "Heure": "08:00",
+    "Intitule": "M4105 - Appli BD AI-2-1",
+    "Lieu": "IUTNC_107, IUTNC_PC_017",
+    "Enseignant": "L'HUILLIER Amaury"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "23/03/18",
+    "Duree": "240",
+    "Heure": "08:00",
+    "Intitule": "M4101 - Admin et progra de nano-pc AI-1-1",
+    "Lieu": "Chariot nano-PC, IUTNC_PC_127",
+    "Enseignant": "NATAF Emmanuel"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "21/03/18",
+    "Duree": "240",
+    "Heure": "08:00",
+    "Intitule": "M4101 - Admin et progra de nano-pc AI-2-1",
+    "Lieu": "Chariot nano-PC, IUTNC_PC_125",
+    "Enseignant": "MARI Jean François"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "M4103 - Progra web - Client riche AI-1-1",
+    "Lieu": "IUTNC_PC_228",
+    "Enseignant": "GUENEGO Pierre-André"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "M4103 - Progra web - Client riche AI-1-1",
+    "Lieu": "IUTNC_PC_019",
+    "Enseignant": "L'HUILLIER Amaury"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "M4104 - Concept. & développ. d'appli. mobiles AI-1-3",
+    "Lieu": "Chariot-tablettes Nexus, IUTNC_PC_125",
+    "Enseignant": "ROEGEL Denis"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "M4104 - Concept. & développ. d'appli. mobiles AI-2-3",
+    "Lieu": "Chariot-tablettes Nexus, IUTNC_PC_125",
+    "Enseignant": "CRUZ-LARA Samuel"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "23/03/18",
+    "Duree": "120",
+    "Heure": "12:00",
+    "Intitule": "M4106 - Projet tut cplt S3C-1",
+    "Lieu": "IUTNC_103, _",
+    "Enseignant": "SIMONETTA Philippe"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "M4202 - Modélisation math-2 AI-1-2",
+    "Lieu": "IUTNC_105",
+    "Enseignant": "LAAMRI El Haj"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "23/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "M4202 - Modélisation math-2 AI-2-2",
+    "Lieu": "IUTNC_103",
+    "Enseignant": "MARIAGE Catherine"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "M4203 - Expr com : Communiquer dans les orga AI-1-2",
+    "Lieu": "IUTNC_105",
+    "Enseignant": "SCHNEIDER Anne-Cécile"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "M4203 - Expr com : Communiquer dans les orga AI-1-3",
+    "Lieu": "IUTNC_105",
+    "Enseignant": "SCHNEIDER Anne-Cécile"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "M4203 - Expr com : Communiquer dans les orga AI-1-3",
+    "Lieu": "IUTNC_103",
+    "Enseignant": "SCHNEIDER Anne-Cécile"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "M4203 - Expr com : Communiquer dans les orga AI-2-2",
+    "Lieu": "IUTNC_107",
+    "Enseignant": "SCHNEIDER Anne-Cécile"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "M4203 - Expr com : Communiquer dans les orga AI-2-3",
+    "Lieu": "IUTNC_107",
+    "Enseignant": "SCHNEIDER Anne-Cécile"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "M4204 - Travailler en anglais AI-1-2",
+    "Lieu": "Chariot-RDC, IUTNC_10",
+    "Enseignant": "BRAIDA LAPLACE Antonella"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "M4204 - Travailler en anglais AI-2-2",
+    "Lieu": "Chariot-1étage, IUTNC_100",
+    "Enseignant": "BRAIDA LAPLACE Antonella"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "23/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "M4204 - Travailler en anglais AI1 AI2 SI2 - DS",
+    "Lieu": "IUTNC_Amphi Botté",
+    "Enseignant": "BRAIDA LAPLACE Antonella"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "M4101 - Système & simulation SI-1-3",
+    "Lieu": "IUTNC_PC_125",
+    "Enseignant": "COLNET Dominique"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "M4101 - Système & simulation SI-2-3",
+    "Lieu": "IUTNC_PC_127",
+    "Enseignant": "COLNET Dominique"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "M4102 - Progra fonctionnelle SI-1-3",
+    "Lieu": "IUTNC_PC_127",
+    "Enseignant": "COLNET Dominique"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "M4102 - Progra fonctionnelle SI-2-3",
+    "Lieu": "IUTNC_PC_125",
+    "Enseignant": "COLNET Dominique"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "M4103 - Progra web - Client riche SI-1-3",
+    "Lieu": "IUTNC_PC_017",
+    "Enseignant": "CANALS Gérôme"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "M4103 - Progra web - Client riche SI-2-3",
+    "Lieu": "IUTNC_PC_331",
+    "Enseignant": "SOURY Ayoub"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "M4104 - Concept. & développ. d'appli. mobiles SI-1-3",
+    "Lieu": "Chariot-tablettes Nexus, IUTNC_PC_127",
+    "Enseignant": "GUENEGO Pierre-André"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "M4104 - Concept. & développ. d'appli. mobiles SI-2-3",
+    "Lieu": "Chariot-tablettes Nexus, IUTNC_PC_127",
+    "Enseignant": "DOSCH Philippe"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "20/03/18",
+    "Duree": "240",
+    "Heure": "08:00",
+    "Intitule": "M4105 - Théorie Lges & Compil SI 1-1",
+    "Lieu": "IUTNC_PC_017",
+    "Enseignant": "GAUTIER Martine"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "23/03/18",
+    "Duree": "120",
+    "Heure": "12:00",
+    "Intitule": "M4106 - Projet tut cplt S3A-2",
+    "Lieu": "IUTNC_107, _",
+    "Enseignant": "LECHAUDEL Dominique"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "12:00",
+    "Intitule": "M4106 - Projet tut cplt S3B-2",
+    "Lieu": "IUTNC_103, _",
+    "Enseignant": "RENNESSON Isabelle"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "19/03/18",
+    "Duree": "90",
+    "Heure": "12:00",
+    "Intitule": "M4106 - Projet tut cplt S3D-2",
+    "Lieu": "IUTNC_107",
+    "Enseignant": "BINET Julien"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "23/03/18",
+    "Duree": "240",
+    "Heure": "08:00",
+    "Intitule": "M4201 - Urbanisation S.I./ SI-1-2",
+    "Lieu": "Chariot-1étage, IUTNC_107",
+    "Enseignant": "ESPIRAC Emmanuel"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "19/03/18",
+    "Duree": "240",
+    "Heure": "14:00",
+    "Intitule": "M4201 -Urbanisation S.I./ SI-2-2",
+    "Lieu": "Chariot-1étage, IUTNC_103",
+    "Enseignant": "NOURRISSIER Patrick"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "M4203 - Expr com : Communiquer dans les orga SI-1-2",
+    "Lieu": "IUTNC_107",
+    "Enseignant": "SCHNEIDER Anne-Cécile"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "M4203 - Expr com : Communiquer dans les orga SI-1-3",
+    "Lieu": "IUTNC_107",
+    "Enseignant": "SCHNEIDER Anne-Cécile"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "M4203 - Expr com : Communiquer dans les orga SI-2-2",
+    "Lieu": "IUTNC_16",
+    "Enseignant": "STASSIN Berengere"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "M4203 - Expr com : Communiquer dans les orga SI-2-3",
+    "Lieu": "IUTNC_16",
+    "Enseignant": "STASSIN Berengere"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "M4204 - Travailler en anglais SI-1-2",
+    "Lieu": "IUTNC_100",
+    "Enseignant": "WUILLEME CARPE Véronique"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "M4204 - Travailler en anglais SI-2-3",
+    "Lieu": "Chariot-1étage, IUTNC_103",
+    "Enseignant": "BRAIDA LAPLACE Antonella"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "M4204 - Travailler en anglais SI1 - DS",
+    "Lieu": "IUTNC_08, IUTNC_10",
+    "Enseignant": "WUILLEME CARPE Véronique"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "M4202 - Traitement de l'information SI-1 DS",
+    "Lieu": "IUTNC_08, IUTNC_10",
+    "Enseignant": "LAAMRI El Haj"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "M4202 - Traitement de l'information SI-1-2",
+    "Lieu": "IUTNC_103",
+    "Enseignant": "LAAMRI El Haj"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "14/03/18",
+    "Duree": "240",
+    "Heure": "14:00",
+    "Intitule": "M4105 - Appli BD AI-1-1",
+    "Lieu": "IUTNC_107, IUTNC_PC_021",
+    "Enseignant": "NOURRISSIER Patrick"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "12/03/18",
+    "Duree": "240",
+    "Heure": "08:00",
+    "Intitule": "M4105 - Appli BD AI-2-1",
+    "Lieu": "IUTNC_107, IUTNC_PC_017",
+    "Enseignant": "L'HUILLIER Amaury"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "16/03/18",
+    "Duree": "240",
+    "Heure": "08:00",
+    "Intitule": "M4101 - Admin et progra de nano-pc AI-1-1",
+    "Lieu": "Chariot nano-PC, IUTNC_PC_127",
+    "Enseignant": "NATAF Emmanuel"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "14/03/18",
+    "Duree": "240",
+    "Heure": "08:00",
+    "Intitule": "M4101 - Admin et progra de nano-pc AI-2-1",
+    "Lieu": "Chariot nano-PC, IUTNC_PC_125",
+    "Enseignant": "MARI Jean François"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "M4102 - Progra répartie AI-1- Présentation projets",
+    "Lieu": "IUTNC_PC_125, IUTNC_105",
+    "Enseignant": "BOUMAZA Amine"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "M4102 - Progra répartie AI-2- Présentation projets",
+    "Lieu": "IUTNC_PC_125, IUTNC_107",
+    "Enseignant": "BONIFACE Yann"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "M4103 - Progra web - Client riche AI-1-1",
+    "Lieu": "IUTNC_PC_228",
+    "Enseignant": "GUENEGO Pierre-André"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "15/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "M4103 - Progra web - Client riche AI-1-1",
+    "Lieu": "IUTNC_PC_019",
+    "Enseignant": "L'HUILLIER Amaury"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "M4104 - Concept. & développ. d'appli. mobiles AI-1-3",
+    "Lieu": "Chariot-tablettes Nexus, IUTNC_PC_125",
+    "Enseignant": "ROEGEL Denis"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "M4104 - Concept. & développ. d'appli. mobiles AI-2-3",
+    "Lieu": "Chariot-tablettes ASUS, IUTNC_PC_127",
+    "Enseignant": "CRUZ-LARA Samuel"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "12:00",
+    "Intitule": "M4106 - Projet tut cplt S3C-1",
+    "Lieu": "IUTNC_105, _",
+    "Enseignant": "SIMONETTA Philippe"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "M4201 - Ateliers création d'entreprises AI-1-2",
+    "Lieu": "Chariot-1étage, IUTNC_107",
+    "Enseignant": "BINET Julien"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "15/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "M4202 - Modélisation math-2 AI-1-2",
+    "Lieu": "IUTNC_107",
+    "Enseignant": "LAAMRI El Haj"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "M4202 - Modélisation math-2 AI-2-2",
+    "Lieu": "IUTNC_105",
+    "Enseignant": "MARIAGE Catherine"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "M4203 - Expr com : Communiquer dans les orga AI-1-2",
+    "Lieu": "IUTNC_103",
+    "Enseignant": "SCHNEIDER Anne-Cécile"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "M4203 - Expr com : Communiquer dans les orga AI-1-2",
+    "Lieu": "IUTNC_105",
+    "Enseignant": "SCHNEIDER Anne-Cécile"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "M4203 - Expr com : Communiquer dans les orga AI-1-3",
+    "Lieu": "IUTNC_105",
+    "Enseignant": "SCHNEIDER Anne-Cécile"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "M4203 - Expr com : Communiquer dans les orga AI-2-2",
+    "Lieu": "IUTNC_107",
+    "Enseignant": "SCHNEIDER Anne-Cécile"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "M4203 - Expr com : Communiquer dans les orga AI-2-2",
+    "Lieu": "IUTNC_107",
+    "Enseignant": "SCHNEIDER Anne-Cécile"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "M4203 - Expr com : Communiquer dans les orga AI-2-3",
+    "Lieu": "IUTNC_105",
+    "Enseignant": "SCHNEIDER Anne-Cécile"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "M4204 - Travailler en anglais AI-1-2",
+    "Lieu": "Chariot-RDC, IUTNC_08",
+    "Enseignant": "BRAIDA LAPLACE Antonella"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "M4204 - Travailler en anglais AI-1-3",
+    "Lieu": "Chariot-1étage, IUTNC_100",
+    "Enseignant": "BRAIDA LAPLACE Antonella"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "M4204 - Travailler en anglais AI-2-2",
+    "Lieu": "Chariot-1étage, IUTNC_100",
+    "Enseignant": "BRAIDA LAPLACE Antonella"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "M4204 - Travailler en anglais AI-2-3",
+    "Lieu": "Chariot-RDC, IUTNC_16",
+    "Enseignant": "BRAIDA LAPLACE Antonella"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "15/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "M4103 - Progra web - Client riche SI-1-3",
+    "Lieu": "IUTNC_PC_017",
+    "Enseignant": "CANALS Gérôme"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "15/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "M4103 - Progra web - Client riche SI-2-3",
+    "Lieu": "IUTNC_PC_331",
+    "Enseignant": "SOURY Ayoub"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "M4104 - Concept. & développ. d'appli. mobiles SI-1-3",
+    "Lieu": "Chariot-tablettes Nexus, IUTNC_PC_127",
+    "Enseignant": "GUENEGO Pierre-André"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "M4104 - Concept. & développ. d'appli. mobiles SI-2-3",
+    "Lieu": "Chariot-tablettes Nexus, IUTNC_PC_127",
+    "Enseignant": "DOSCH Philippe"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "14/03/18",
+    "Duree": "240",
+    "Heure": "14:00",
+    "Intitule": "M4105 - Appli BD SI-2-1",
+    "Lieu": "IUTNC_PC_019",
+    "Enseignant": "CANALS Gérôme"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "16/03/18",
+    "Duree": "240",
+    "Heure": "08:00",
+    "Intitule": "M4105 - Appli BD SI-2-1",
+    "Lieu": "IUTNC_PC_232",
+    "Enseignant": "CANALS Gérôme"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "13/03/18",
+    "Duree": "240",
+    "Heure": "08:00",
+    "Intitule": "M4105 - Théorie Lges & Compil SI 1-1",
+    "Lieu": "IUTNC_PC_017",
+    "Enseignant": "GAUTIER Martine"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "12:00",
+    "Intitule": "M4106 - Projet tut cplt S3A-2",
+    "Lieu": "IUTNC_107, _",
+    "Enseignant": "LECHAUDEL Dominique"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "13/03/18",
+    "Duree": "90",
+    "Heure": "12:00",
+    "Intitule": "M4106 - Projet tut cplt S3D-2",
+    "Lieu": "IUTNC_100",
+    "Enseignant": "BINET Julien"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "16/03/18",
+    "Duree": "240",
+    "Heure": "08:00",
+    "Intitule": "M4201 - Urbanisation S.I./ SI-1-2",
+    "Lieu": "Chariot-1étage, IUTNC_107",
+    "Enseignant": "ESPIRAC Emmanuel"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "M4201 - Urbanisation S.I./ SI-2-1",
+    "Lieu": "Chariot-1étage, IUTNC_103",
+    "Enseignant": "NOURRISSIER Patrick"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "12/03/18",
+    "Duree": "240",
+    "Heure": "14:00",
+    "Intitule": "M4201 -Urbanisation S.I./ SI-2-2",
+    "Lieu": "Chariot-1étage, IUTNC_103",
+    "Enseignant": "NOURRISSIER Patrick"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "M4203 - Expr com : Communiquer dans les orga SI-1-2",
+    "Lieu": "IUTNC_107",
+    "Enseignant": "SCHNEIDER Anne-Cécile"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "M4203 - Expr com : Communiquer dans les orga SI-1-2",
+    "Lieu": "IUTNC_105",
+    "Enseignant": "SCHNEIDER Anne-Cécile"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "M4203 - Expr com : Communiquer dans les orga SI-1-3",
+    "Lieu": "IUTNC_107",
+    "Enseignant": "SCHNEIDER Anne-Cécile"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "M4204 - Travailler en anglais SI-1-2",
+    "Lieu": "IUTNC_104",
+    "Enseignant": "WUILLEME CARPE Véronique"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "15/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "M4204 - Travailler en anglais SI-1-3",
+    "Lieu": "IUTNC_103, _, Chariot-1étage",
+    "Enseignant": "WUILLEME CARPE Véronique"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "M4204 - Travailler en anglais SI-2-2",
+    "Lieu": "Chariot-RDC, IUTNC_16",
+    "Enseignant": "BRAIDA LAPLACE Antonella"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "M4204 - Travailler en anglais SI-2-3",
+    "Lieu": "Chariot-1étage, IUTNC_103",
+    "Enseignant": "BRAIDA LAPLACE Antonella"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "M4202 -Modélisation math-2 SI-2-2",
+    "Lieu": "IUTNC_103",
+    "Enseignant": "GILETTI Thomas"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "M4202 -Modélisation math-2 SI-2-2",
+    "Lieu": "IUTNC_103",
+    "Enseignant": "GILETTI Thomas"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "M4202 - Traitement de l'information SI-1-1",
+    "Lieu": "IUTNC_105",
+    "Enseignant": "LAAMRI El Haj"
+  },
+  {
+    "Formation": "DUT INFO 2A",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "M4202 - Traitement de l'information SI-1-2",
+    "Lieu": "IUTNC_105",
+    "Enseignant": "LAAMRI El Haj"
+  },
+  {
+    "Formation": "LP CISIIE",
+    "Date": "20/03/18",
+    "Duree": "240",
+    "Heure": "14:00",
+    "Intitule": "Administration des services Web LP1 CISIIE TD",
+    "Lieu": "IUTNC_PC_505",
+    "Enseignant": "NOURRISSIER Patrick"
+  },
+  {
+    "Formation": "LP CISIIE",
+    "Date": "20/03/18",
+    "Duree": "240",
+    "Heure": "14:00",
+    "Intitule": "Administration des services Web LP2 CISIIE TD",
+    "Lieu": "IUTNC_PC_503",
+    "Enseignant": "LESNIAK Guillaume"
+  },
+  {
+    "Formation": "LP CISIIE",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "Anglais LP1 CISIIE TD",
+    "Lieu": "IUTNC_PC_505",
+    "Enseignant": "LATHAM Michael"
+  },
+  {
+    "Formation": "LP CISIIE",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "Anglais LP1 CISIIE TD",
+    "Lieu": "IUTNC_PC_505",
+    "Enseignant": "LATHAM Michael"
+  },
+  {
+    "Formation": "LP CISIIE",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "Anglais LP2 CISIIE TD",
+    "Lieu": "IUTNC_PC_503",
+    "Enseignant": "LATHAM Michael"
+  },
+  {
+    "Formation": "LP CISIIE",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "Anglais LP2 CISIIE TD",
+    "Lieu": "IUTNC_PC_503",
+    "Enseignant": "LATHAM Michael"
+  },
+  {
+    "Formation": "LP CISIIE",
+    "Date": "21/03/18",
+    "Duree": "180",
+    "Heure": "14:00",
+    "Intitule": "Ergonomie du Web Mobile",
+    "Lieu": "IUTNC_PC_503",
+    "Enseignant": "LEROUX Alexandre"
+  },
+  {
+    "Formation": "LP CISIIE",
+    "Date": "23/03/18",
+    "Duree": "180",
+    "Heure": "14:00",
+    "Intitule": "Ergonomie du Web Mobile",
+    "Lieu": "IUTNC_PC_503",
+    "Enseignant": "LEROUX Alexandre"
+  },
+  {
+    "Formation": "LP CISIIE",
+    "Date": "21/03/18",
+    "Duree": "180",
+    "Heure": "14:00",
+    "Intitule": "Programmation Web Mobile",
+    "Lieu": "Chariot-tablettes ASUS, _",
+    "Enseignant": "CRUZ-LARA Samuel"
+  },
+  {
+    "Formation": "LP CISIIE",
+    "Date": "13/03/18",
+    "Duree": "240",
+    "Heure": "14:00",
+    "Intitule": "Administration des services Web LP1 CISIIE TD",
+    "Lieu": "IUTNC_PC_505",
+    "Enseignant": "NOURRISSIER Patrick"
+  },
+  {
+    "Formation": "LP CISIIE",
+    "Date": "13/03/18",
+    "Duree": "240",
+    "Heure": "14:00",
+    "Intitule": "Administration des services Web LP2 CISIIE TD",
+    "Lieu": "IUTNC_PC_503",
+    "Enseignant": "LESNIAK Guillaume"
+  },
+  {
+    "Formation": "LP CISIIE",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "Anglais LP1 CISIIE TD",
+    "Lieu": "IUTNC_PC_505",
+    "Enseignant": "LATHAM Michael"
+  },
+  {
+    "Formation": "LP CISIIE",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "Anglais LP1 CISIIE TD",
+    "Lieu": "IUTNC_PC_505",
+    "Enseignant": "LATHAM Michael"
+  },
+  {
+    "Formation": "LP CISIIE",
+    "Date": "15/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "Anglais LP2 CISIIE TD",
+    "Lieu": "IUTNC_PC_503",
+    "Enseignant": "LATHAM Michael"
+  },
+  {
+    "Formation": "LP CISIIE",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "Anglais LP2 CISIIE TD",
+    "Lieu": "IUTNC_PC_503",
+    "Enseignant": "LATHAM Michael"
+  },
+  {
+    "Formation": "LP CISIIE",
+    "Date": "16/03/18",
+    "Duree": "180",
+    "Heure": "14:00",
+    "Intitule": "Ergonomie du Web Mobile",
+    "Lieu": "IUTNC_PC_503",
+    "Enseignant": "LEROUX Alexandre"
+  },
+  {
+    "Formation": "LP CISIIE",
+    "Date": "14/03/18",
+    "Duree": "180",
+    "Heure": "14:00",
+    "Intitule": "Programmation Web Mobile",
+    "Lieu": "Chariot-tablettes ASUS, IUTNC_PC_505",
+    "Enseignant": "CRUZ-LARA Samuel"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "17:00",
+    "Intitule": "ALLEMAND B1",
+    "Lieu": "Remicourt_S.013",
+    "Enseignant": "VRIGNAUD Katharina"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "15:00",
+    "Intitule": "ALLEMAND B2",
+    "Lieu": "Remicourt_S.013",
+    "Enseignant": "VRIGNAUD Katharina"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "13:00",
+    "Intitule": "ALLEMAND Débutant",
+    "Lieu": "Remicourt_S.013",
+    "Enseignant": "VRIGNAUD Katharina"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "17:00",
+    "Intitule": "TD JAPONAIS S8 AVANCE A1-A2",
+    "Lieu": "Remicourt_N 1.33",
+    "Enseignant": "ISHIKAWA Motoko"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "13:00",
+    "Intitule": "TD JAPONAIS S8 DEBUTANT 1",
+    "Lieu": "Remicourt_N 1.33",
+    "Enseignant": "ISHIKAWA Motoko"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "15:00",
+    "Intitule": "TD JAPONAIS S8 DEBUTANT 2",
+    "Lieu": "Remicourt_N 1.33",
+    "Enseignant": "ISHIKAWA Motoko"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TD ABC of English",
+    "Lieu": "Remicourt_S.014, Remicourt_E1.15",
+    "Enseignant": "DUVAL Muriel"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "13:00",
+    "Intitule": "TD TOEFL",
+    "Lieu": "Remicourt_N 1.2",
+    "Enseignant": "FOURNIER Karen"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD An2 G11",
+    "Lieu": "Remicourt_S.014",
+    "Enseignant": "DUVAL Muriel"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD An2 G12",
+    "Lieu": "Remicourt_S.08",
+    "Enseignant": "FOURNIER Karen"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TD An2 G21",
+    "Lieu": "Remicourt_S.013",
+    "Enseignant": "DUVAL Muriel"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TD An2 G22",
+    "Lieu": "Remicourt_N 1.34",
+    "Enseignant": "FOURNIER Karen"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "23/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD An2 G31",
+    "Lieu": "Remicourt_S.08",
+    "Enseignant": "DUVAL Muriel"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "23/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD An2 G32",
+    "Lieu": "Remicourt_S.07",
+    "Enseignant": "FOURNIER Karen"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD An2 G41",
+    "Lieu": "Remicourt_N 1.2",
+    "Enseignant": "DUVAL Muriel"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD An2 G42",
+    "Lieu": "Remicourt_S.010",
+    "Enseignant": "FOURNIER Karen"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD An2 G51",
+    "Lieu": "Remicourt_S 1.10",
+    "Enseignant": "DUVAL Muriel"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD An2 G52",
+    "Lieu": "Remicourt_S.014",
+    "Enseignant": "FOURNIER Karen"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "23/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TD MO2 G1",
+    "Lieu": "Remicourt_S.09",
+    "Enseignant": "HESS Hervé"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TD MO2 G2",
+    "Lieu": "Remicourt_S.09",
+    "Enseignant": "HEURTEL Anne-Claire"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD MO2 G3",
+    "Lieu": "Remicourt_S.08",
+    "Enseignant": "HEURTEL Anne-Claire"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TD MO2 G4",
+    "Lieu": "Remicourt_E1.16",
+    "Enseignant": "HEURTEL Anne-Claire"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD MO2 G4",
+    "Lieu": "Remicourt_E1.15",
+    "Enseignant": "HEURTEL Anne-Claire"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TD MO2 G5",
+    "Lieu": "Remicourt_E1.16",
+    "Enseignant": "HEURTEL Anne-Claire"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD BD G1",
+    "Lieu": "Remicourt_N 1.33",
+    "Enseignant": "DEVIGNES Marie-Dominique"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD BD G2",
+    "Lieu": "Remicourt_S.09",
+    "Enseignant": "ARIDHI Sabeur"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TD BD G3",
+    "Lieu": "Remicourt_N 1.2",
+    "Enseignant": "PARMENTIER Yannick"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TD BD G4",
+    "Lieu": "Remicourt_S.09",
+    "Enseignant": "OSTER Gérald"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD BD G5",
+    "Lieu": "Remicourt_E1.15",
+    "Enseignant": "SMAIL-TABBONE Malika"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TP BD G1",
+    "Lieu": "Remicourt_2.42",
+    "Enseignant": "DEVIGNES Marie-Dominique"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TP BD G1",
+    "Lieu": "Remicourt_N.043",
+    "Enseignant": "DEVIGNES Marie-Dominique"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TP BD G2",
+    "Lieu": "Remicourt_2.41",
+    "Enseignant": "ARIDHI Sabeur"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TP BD G3",
+    "Lieu": "Remicourt_2.42",
+    "Enseignant": "PARMENTIER Yannick"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TP BD G4",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "OSTER Gérald"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TP BD G5",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "SMAIL-TABBONE Malika"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TP C G1",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "OSTER Gérald"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TP C G1",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "OSTER Gérald"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TP C G2",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "CHRISMENT Isabelle"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TP C G2",
+    "Lieu": "Remicourt_E1.21",
+    "Enseignant": "CHRISMENT Isabelle"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TP C G3",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "SEGAULT Benjamin"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TP C G4",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "COLLIN Suzanne"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TP C G5",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "DA SILVA Sebastien"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TP POO G1",
+    "Lieu": "Remicourt_E1.19",
+    "Enseignant": "BADONNEL Rémi"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TP POO G2",
+    "Lieu": "Remicourt_E1.21",
+    "Enseignant": "CHOLEZ Thibault"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TP POO G3",
+    "Lieu": "Remicourt_2.41",
+    "Enseignant": "LAPORTE-CHABASSE Quentin"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TP POO G4",
+    "Lieu": "Remicourt_E1.19",
+    "Enseignant": "ELVINGER Victorien"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TP POO G5",
+    "Lieu": "Remicourt_E1.21",
+    "Enseignant": "OSTER Gérald"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "23/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "CM SD",
+    "Lieu": "Remicourt_amphi sud",
+    "Enseignant": "DA SILVA Sebastien"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TD SD G1",
+    "Lieu": "Remicourt_S.07",
+    "Enseignant": "EISENBARTH Jean-Philippe"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TD SD G2",
+    "Lieu": "Remicourt_N 1.34",
+    "Enseignant": "DA SILVA Sebastien"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD SD G3",
+    "Lieu": "Remicourt_S.09",
+    "Enseignant": "DA SILVA Sebastien"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD SD G4",
+    "Lieu": "Remicourt_N 1.2",
+    "Enseignant": "FESTOR Olivier"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD SD G5",
+    "Lieu": "Remicourt_E1.16",
+    "Enseignant": "BADONNEL Rémi"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TP SD G1",
+    "Lieu": "Remicourt_E1.19",
+    "Enseignant": "EISENBARTH Jean-Philippe"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TP SD G2",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "DA SILVA Sebastien"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TP SD G3",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "SCHNEPF Nicolas"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TP SD G4",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "FESTOR Olivier"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TP SD G5",
+    "Lieu": "Remicourt_E1.21",
+    "Enseignant": "BADONNEL Rémi"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TP SD G5",
+    "Lieu": "Remicourt_E1.19",
+    "Enseignant": "BADONNEL Rémi"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "23/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "CM MN",
+    "Lieu": "Remicourt_amphi sud",
+    "Enseignant": "PINCON Bruno"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TD MN G3",
+    "Lieu": "Remicourt_E1.16",
+    "Enseignant": "SCHEID Jean-François"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TD MN G4",
+    "Lieu": "Remicourt_N 1.2",
+    "Enseignant": "PINCON Bruno"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TD MN G5",
+    "Lieu": "Remicourt_N 1.33",
+    "Enseignant": "PINCON Bruno"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "23/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TP MN G1",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "BASTOGNE Thierry"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "23/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TP MN G2",
+    "Lieu": "Remicourt_E1.19",
+    "Enseignant": "SCHMITT Didier"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "23/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TP MN G3",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "SCHEID Jean-François"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "23/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TP MN G4",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "PINCON Bruno"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "23/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TP MN G5",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "PINCON Bruno"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TD MSED2 G1",
+    "Lieu": "Remicourt_S.07",
+    "Enseignant": "RONDEAU Zahra"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TD MSED2 G2",
+    "Lieu": "Remicourt_N 1.34",
+    "Enseignant": "RONDEAU Zahra"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "22/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD MSED2 G3",
+    "Lieu": "Remicourt_N 1.34",
+    "Enseignant": "ELVINGER Victorien"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TD MSED2 G4",
+    "Lieu": "Remicourt_S.07",
+    "Enseignant": "MARANGE Pascale"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TD MSED2 G5",
+    "Lieu": "Remicourt_S.010",
+    "Enseignant": "RONDEAU Zahra"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "22/03/18",
+    "Duree": "60",
+    "Heure": "09:00",
+    "Intitule": "Examen SIC2 1 G1",
+    "Lieu": "Remicourt_E1.18, Remicourt_E1.19",
+    "Enseignant": "DJERMOUNE El-Hadi"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "22/03/18",
+    "Duree": "60",
+    "Heure": "09:00",
+    "Intitule": "Examen SIC2 1 G2",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "SIBILLE Patrick"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "22/03/18",
+    "Duree": "60",
+    "Heure": "10:00",
+    "Intitule": "Examen SIC2 1 G3",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "TOMCZAK Marc"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "22/03/18",
+    "Duree": "60",
+    "Heure": "10:00",
+    "Intitule": "Examen SIC2 1 G4",
+    "Lieu": "Remicourt_E1.18, Remicourt_E1.19",
+    "Enseignant": "SIBILLE Patrick"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "22/03/18",
+    "Duree": "60",
+    "Heure": "11:00",
+    "Intitule": "Examen SIC2 1 G5",
+    "Lieu": "Remicourt_E1.18, Remicourt_E1.19",
+    "Enseignant": "DJERMOUNE El-Hadi"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "Examen SIC2 2",
+    "Lieu": "Remicourt_S 1.8, Remicourt_S 1.8 bis",
+    "Enseignant": "TOMCZAK Marc, DJERMOUNE El-Hadi"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "15/03/18",
+    "Duree": "120",
+    "Heure": "17:00",
+    "Intitule": "ALLEMAND B1",
+    "Lieu": "Remicourt_S.013",
+    "Enseignant": "VRIGNAUD Katharina"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "15/03/18",
+    "Duree": "120",
+    "Heure": "15:00",
+    "Intitule": "ALLEMAND B2",
+    "Lieu": "Remicourt_S.013",
+    "Enseignant": "VRIGNAUD Katharina"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "15/03/18",
+    "Duree": "120",
+    "Heure": "13:00",
+    "Intitule": "ALLEMAND Débutant",
+    "Lieu": "Remicourt_S.013",
+    "Enseignant": "VRIGNAUD Katharina"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "15/03/18",
+    "Duree": "120",
+    "Heure": "17:00",
+    "Intitule": "TD JAPONAIS S8 AVANCE A1-A2",
+    "Lieu": "Remicourt_S.010",
+    "Enseignant": "ISHIKAWA Motoko"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "15/03/18",
+    "Duree": "120",
+    "Heure": "13:00",
+    "Intitule": "TD JAPONAIS S8 DEBUTANT 1",
+    "Lieu": "Remicourt_S.010",
+    "Enseignant": "ISHIKAWA Motoko"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "15/03/18",
+    "Duree": "120",
+    "Heure": "15:00",
+    "Intitule": "TD JAPONAIS S8 DEBUTANT 2",
+    "Lieu": "Remicourt_S.010",
+    "Enseignant": "ISHIKAWA Motoko"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TD ABC of English",
+    "Lieu": "Remicourt_N 1.2, Remicourt_S.014",
+    "Enseignant": "DUVAL Muriel"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "15/03/18",
+    "Duree": "120",
+    "Heure": "13:00",
+    "Intitule": "TD TOEFL",
+    "Lieu": "Remicourt_N 1.33",
+    "Enseignant": "FOURNIER Karen"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD An2 G11",
+    "Lieu": "Remicourt_S.09",
+    "Enseignant": "DUVAL Muriel"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD An2 G12",
+    "Lieu": "Remicourt_S.07",
+    "Enseignant": "FOURNIER Karen"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD An2 G21",
+    "Lieu": "Remicourt_S.09",
+    "Enseignant": "DUVAL Muriel"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD An2 G22",
+    "Lieu": "Remicourt_S.013",
+    "Enseignant": "FOURNIER Karen"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD An2 G31",
+    "Lieu": "Remicourt_E1.16",
+    "Enseignant": "DUVAL Muriel"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD An2 G32",
+    "Lieu": "Remicourt_N 1.2",
+    "Enseignant": "FOURNIER Karen"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TD An2 G4",
+    "Lieu": "Remicourt_S.010",
+    "Enseignant": "FOURNIER Karen"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TD An2 G51",
+    "Lieu": "Remicourt_N 1.2",
+    "Enseignant": "DUVAL Muriel"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TD An2 G52",
+    "Lieu": "Remicourt_S.015",
+    "Enseignant": "FOURNIER Karen"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TD MO2 G1",
+    "Lieu": "Remicourt_S.010",
+    "Enseignant": "HESS Hervé"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TD MO2 G2",
+    "Lieu": "Remicourt_N 1.34",
+    "Enseignant": "HEURTEL Anne-Claire"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TD MO2 G2",
+    "Lieu": "Remicourt_E1.15",
+    "Enseignant": "HEURTEL Anne-Claire"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TD MO2 G3",
+    "Lieu": "Remicourt_S.07",
+    "Enseignant": "HEURTEL Anne-Claire"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD MO2 G4",
+    "Lieu": "Remicourt_E1.15",
+    "Enseignant": "HEURTEL Anne-Claire"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD MO2 G5",
+    "Lieu": "Remicourt_E1.15",
+    "Enseignant": "HEURTEL Anne-Claire"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "15/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD MO2 G5",
+    "Lieu": "Remicourt_N 1.33",
+    "Enseignant": "HEURTEL Anne-Claire"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "15/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "CM BD",
+    "Lieu": "Remicourt_amphi nord",
+    "Enseignant": "ARIDHI Sabeur"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD BD G1",
+    "Lieu": "Remicourt_N 1.2",
+    "Enseignant": "DEVIGNES Marie-Dominique"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD BD G2",
+    "Lieu": "Remicourt_N 1.1",
+    "Enseignant": "ARIDHI Sabeur"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD BD G3",
+    "Lieu": "Remicourt_N 1.33",
+    "Enseignant": "PARMENTIER Yannick"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD BD G4",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "OSTER Gérald"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TD BD G5",
+    "Lieu": "Remicourt_S.08",
+    "Enseignant": "SMAIL-TABBONE Malika"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TP BD G1",
+    "Lieu": "Remicourt_2.42",
+    "Enseignant": "DEVIGNES Marie-Dominique"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "14:30",
+    "Intitule": "TP BD G2",
+    "Lieu": "Remicourt_2.41",
+    "Enseignant": "ARIDHI Sabeur"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TP BD G3",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "PARMENTIER Yannick"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TP BD G4",
+    "Lieu": "Remicourt_N.043",
+    "Enseignant": "OSTER Gérald"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TP BD G5",
+    "Lieu": "Remicourt_N.042",
+    "Enseignant": "SMAIL-TABBONE Malika"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TP C G1",
+    "Lieu": "Remicourt_E1.19",
+    "Enseignant": "OSTER Gérald"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TP C G3",
+    "Lieu": "Remicourt_N.042",
+    "Enseignant": "SEGAULT Benjamin"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TP C G5",
+    "Lieu": "Remicourt_N.042",
+    "Enseignant": "DA SILVA Sebastien"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TD POO G2",
+    "Lieu": "Remicourt_S.010",
+    "Enseignant": "CHOLEZ Thibault"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD POO G3",
+    "Lieu": "Remicourt_E1.16",
+    "Enseignant": "LAPORTE-CHABASSE Quentin"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TD POO G4",
+    "Lieu": "Remicourt_S.08",
+    "Enseignant": "ELVINGER Victorien"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TD POO G5",
+    "Lieu": "Remicourt_amphi nord",
+    "Enseignant": "OSTER Gérald"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TD POO G1",
+    "Lieu": "Remicourt_E1.15",
+    "Enseignant": "BADONNEL Rémi"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TP POO G1",
+    "Lieu": "Remicourt_E1.19",
+    "Enseignant": "BADONNEL Rémi"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TP POO G2",
+    "Lieu": "Remicourt_E1.19",
+    "Enseignant": "CHOLEZ Thibault"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TP POO G3",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "LAPORTE-CHABASSE Quentin"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TP POO G4",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "ELVINGER Victorien"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TP POO G5",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "OSTER Gérald"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TP SD G1",
+    "Lieu": "Remicourt_2.41",
+    "Enseignant": "EISENBARTH Jean-Philippe"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "15/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TP SD G1",
+    "Lieu": "Remicourt_E1.19",
+    "Enseignant": "EISENBARTH Jean-Philippe"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "13:30",
+    "Intitule": "TP SD G2",
+    "Lieu": "Remicourt_2.42",
+    "Enseignant": "GAUTIER Martine"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "TP SD G2",
+    "Lieu": "Remicourt_E1.21",
+    "Enseignant": "GAUTIER Martine"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TP SD G3",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "SCHNEPF Nicolas"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TP SD G3",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "SCHNEPF Nicolas"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "15/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TP SD G4",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "FESTOR Olivier"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TP SD G4",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "FESTOR Olivier"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "16:00",
+    "Intitule": "TP SD G5",
+    "Lieu": "Remicourt_E1.18",
+    "Enseignant": "BADONNEL Rémi"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "CM MN",
+    "Lieu": "Remicourt_amphi nord",
+    "Enseignant": "PINCON Bruno"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD MN G1",
+    "Lieu": "Remicourt_N 1.33",
+    "Enseignant": "BASTOGNE Thierry"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD MN G2",
+    "Lieu": "Remicourt_S.08",
+    "Enseignant": "SCHMITT Didier"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "TD MN G5",
+    "Lieu": "Remicourt_N 1.2",
+    "Enseignant": "PINCON Bruno"
+  },
+  {
+    "Formation": "TELECOM 1A",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "10:00",
+    "Intitule": "CM MSED2",
+    "Lieu": "Remicourt_amphi sud",
+    "Enseignant": "MARANGE Pascale"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "20/03/18",
+    "Duree": "240",
+    "Heure": "08:00",
+    "Intitule": "CM Données semi-structurées et XML",
+    "Lieu": "FST_HP_E 27",
+    "Enseignant": "BOUDJLIDA Nacer"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "CM Infographie",
+    "Lieu": "FST_HP_E 36",
+    "Enseignant": "MARTINEZ BAYONA Jonas"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "10:15",
+    "Intitule": "TD Infographie",
+    "Lieu": "FST_ATELIS_HP 319",
+    "Enseignant": "MARTINEZ BAYONA Jonas"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "CM Init. à l'Ordonnacement",
+    "Lieu": "FST_HP_E 33",
+    "Enseignant": "OULAMARA Ammar"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "16:15",
+    "Intitule": "TD Init. à l'Ordonnacement",
+    "Lieu": "FST_HP_E 33",
+    "Enseignant": "OULAMARA Ammar"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "CM Instal. & Admin. SE Réseau",
+    "Lieu": "FST_ATELIS_HP I 244",
+    "Enseignant": "DEMENGEON Olivier"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "21/03/18",
+    "Duree": "120",
+    "Heure": "16:15",
+    "Intitule": "TD Instal. & Admin. SE Réseau",
+    "Lieu": "FST_ATELIS_HP I 244",
+    "Enseignant": "DEMENGEON Olivier"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "10:15",
+    "Intitule": "CM IntroTIVO",
+    "Lieu": "FST_HP_E 22",
+    "Enseignant": "SIMON Gilles"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "23/03/18",
+    "Duree": "120",
+    "Heure": "10:15",
+    "Intitule": "CM IntroTIVO sm",
+    "Lieu": "FST_ATELIS_HP 319",
+    "Enseignant": "RENNESSON Isabelle"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "23/03/18",
+    "Duree": "240",
+    "Heure": "14:00",
+    "Intitule": "CM Intro. parallélisme de données",
+    "Lieu": "FST_ATELIS_HP 303",
+    "Enseignant": "LEFEBVRE Sylvain"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD Intro apprentissage",
+    "Lieu": "FST_HP_E 21",
+    "Enseignant": "LAUER Fabien"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "20/03/18",
+    "Duree": "120",
+    "Heure": "10:15",
+    "Intitule": "CM Intro apprentissage",
+    "Lieu": "FST_HP_E 21",
+    "Enseignant": "LAUER Fabien"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "10:15",
+    "Intitule": "CM Preuves et démonstrations auto",
+    "Lieu": "FST_HP_E 34",
+    "Enseignant": "LARCHEY WENDLING Dominique"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "23/03/18",
+    "Duree": "120",
+    "Heure": "10:15",
+    "Intitule": "CM Preuves et démonstrations auto",
+    "Lieu": "FST_HP_E 34",
+    "Enseignant": "LARCHEY WENDLING Dominique"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "23/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD Anglais",
+    "Lieu": "FST_HP_E 15",
+    "Enseignant": "DROUET Jean-Michel"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "16:15",
+    "Intitule": "TD Concep. archi. distri. sm",
+    "Lieu": "FST_ATELIS_HP 303, FST_ATELIS_HP 309",
+    "Enseignant": "MERZ Stephan"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "19/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "CM Concep. archi. distri.",
+    "Lieu": "FST_IECL_M 10",
+    "Enseignant": "MERZ Stephan"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "22/03/18",
+    "Duree": "240",
+    "Heure": "14:00",
+    "Intitule": "CM Initiation à la Recherche",
+    "Lieu": "",
+    "Enseignant": ""
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "13/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "Examen Intro cryptographie",
+    "Lieu": "FST_HP_AMPHI 15",
+    "Enseignant": "MINIER Marine"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "14/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "Examen Robotique autonome",
+    "Lieu": "FST_HP_AMPHI 11",
+    "Enseignant": "SCHEUER Alexis"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "10:15",
+    "Intitule": "Examen SGBD",
+    "Lieu": "FST_VG_SC 04",
+    "Enseignant": "BOUDJLIDA Nacer"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "15/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "Examen TP SGBD",
+    "Lieu": "FST_ATELIS_HP 310",
+    "Enseignant": "BOUDJLIDA Nacer"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "10:15",
+    "Intitule": "Examen Sémantique des langages",
+    "Lieu": "FST_IECL_M 01",
+    "Enseignant": "GALMICHE Didier"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "10:15",
+    "Intitule": "Examen Vérification des systèmes",
+    "Lieu": "FST_HP_AMPHI 13",
+    "Enseignant": "DUFLOT-KREMER Marie"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "16/03/18",
+    "Duree": "120",
+    "Heure": "08:00",
+    "Intitule": "TD Anglais",
+    "Lieu": "FST_HP_E 15",
+    "Enseignant": "DROUET Jean-Michel"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "14/03/18",
+    "Duree": "240",
+    "Heure": "08:00",
+    "Intitule": "TD Communication",
+    "Lieu": "FST_HP_E 15",
+    "Enseignant": "VIGNON Carole"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "16:15",
+    "Intitule": "TD Concep. archi. distri.",
+    "Lieu": "FST_IECL_M 10",
+    "Enseignant": "DUFLOT-KREMER Marie"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "12/03/18",
+    "Duree": "120",
+    "Heure": "14:00",
+    "Intitule": "CM Concep. archi. distri.",
+    "Lieu": "FST_IECL_M 10",
+    "Enseignant": "DUFLOT-KREMER Marie"
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "15/03/18",
+    "Duree": "240",
+    "Heure": "14:00",
+    "Intitule": "CM Initiation à la Recherche",
+    "Lieu": "",
+    "Enseignant": ""
+  },
+  {
+    "Formation": "Master Informatique",
+    "Date": "04/04/18",
+    "Duree": "240",
+    "Heure": "14:00",
+    "Intitule": "CM Initiation à la Recherche",
+    "Lieu": "",
+    "Enseignant": ""
+  }
+]
