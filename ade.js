@@ -28,15 +28,16 @@ function getCours_heure(formation, date, heure){
 }
 
 
-function getExamen(formation){
+function getExamen(formation, date){
     var tableau=[];
     data.forEach(function (value) {
         if(value.Formation==formation){
-            temp=value.Intitule.split(' ');
-            //console.log(temp);
-            for (var i = 0; i < temp.length; i++) {
-                if(temp[i]=="Examen"){
-                    tableau.push(value.Intitule);
+            if (compare(value.Date, date) == -1) {
+                temp = value.Intitule.split(' ');
+                for (var i = 0; i < temp.length; i++) {
+                    if (temp[i] == "Examen") {
+                        tableau.push([value.Intitule, value.Date]);
+                    }
                 }
             }
 
@@ -44,6 +45,9 @@ function getExamen(formation){
     });
     return tableau;
 }
+
+console.log(getExamen("Master Informatique", "14/03/2018"));
+
 function getDureeDate(formation, date){
     var duree=0;
     data.forEach(function (value) {
@@ -169,4 +173,4 @@ function stringToDate(date) {
     return dateA;
 }
 
-module.exports = {getCours, getCours_heure, getDureeDate, getCours_prof, getSalle, getVacances, getProchainesVacances, getExamen}
+module.exports = {getCours, getCours_heure, getDureeDate, getCours_prof, getSalle, getProchaineVacance, getProchainesVacances, getExamen}
