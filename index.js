@@ -96,15 +96,27 @@ function launchRightFunction(context) {
 	var result=null;
 	switch (context.action) {
 		case 'cours':
+
 			result =  "Avec " + context.Enseignant.toLowerCase() + " vous avez les cours " + ade.getCours_prof(context.Formation, context.Enseignant).join(" et ");
 			break;
 		case 'examen':
+
 			var exams = ade.getExamen(context.formation, context.jour2);
 			if (exams.length == 0)
 				result = "Vous n'avez aucun examen le " + context.jour2;
 			else
 				result = "Vous avez ces examens avant le " + context.jour2 + " : " + exams.join(", ");
+		case 'vacances':
 
+			var prochaineVacance = ade.getProchaineVacance();
+			result = "Les prochaines vacances sont à partir du " + prochaineVacance.debut + " jusqu'au " + prochaineVacance.fin     ;
+
+		case 'edt':
+			var cours = ade.getCours(context.formation2, context.jour1);
+			if (cours.length == 0)
+				result = "Vous n'avez aucun cours le " + context.jour1;
+			else
+				result = "Les cours du " + context.jour1 + " sont : " + cours.join(", ");
 	}
 
 	return result;

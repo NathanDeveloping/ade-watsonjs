@@ -4,6 +4,8 @@ var dataSort = dataArray.sort(compare);
 
 function getCours(formation, date){
     var tableau=[];
+    var donnees = date.split('-');
+    date = donnees[2] + "/" + donnees[1] + "/" + donnees[0].charAt(2) + donnees[0].charAt(3);
     data.forEach(function (value) {
         if(value.Date==date){
             if(value.Formation==formation){
@@ -132,27 +134,25 @@ function getProchaineVacance() {
     var currentJourString;
     var currentDate = new Date();
     dataSort.forEach(function (value) {
-        if(value.Formation == formation) {
-            i++;
-            if (i == 1) {
-                jourDebut = stringToDate(value.Date);
-                jourDebutString = value.Date;
-            } else {
-                if (value.Date != jourDebutString) {
-                    currentJour = stringToDate(value.Date);
-                    currentJourString = value.Date;
-                    var timeDifference = Math.abs(jourDebut.getTime() - currentJour.getTime());
-                    var differentDays = Math.ceil(timeDifference / (1000 * 3600 * 24));
-                    if (differentDays >= 7) {
-                        if (currentJour > jourDebut) {
-                            if (jourDebut >= currentDate) {
-                                vacances = {debut: jourDebutString, fin: currentJourString};
-                            }
+        i++;
+        if (i == 1) {
+            jourDebut = stringToDate(value.Date);
+            jourDebutString = value.Date;
+        } else {
+            if (value.Date != jourDebutString) {
+                currentJour = stringToDate(value.Date);
+                currentJourString = value.Date;
+                var timeDifference = Math.abs(jourDebut.getTime() - currentJour.getTime());
+                var differentDays = Math.ceil(timeDifference / (1000 * 3600 * 24));
+                if (differentDays >= 7) {
+                    if (currentJour > jourDebut) {
+                        if (jourDebut >= currentDate) {
+                            vacances = {debut: jourDebutString, fin: currentJourString};
                         }
                     }
-                    jourDebut = currentJour;
-                    jourDebutString = value.Date;
                 }
+                jourDebut = currentJour;
+                jourDebutString = value.Date;
             }
         }
     });
